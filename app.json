@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Nexus Crush",
+    "slug": "nexus-crush",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0B1020"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nexusmindai.nexuscrush"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0B1020"
+      },
+      "package": "com.nexusmindai.nexuscrush"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
